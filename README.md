@@ -9,7 +9,8 @@ This is the Mini_Marget Management system made with C# and Microsoft Server SQl.
 
 
 
-![project image](http://img.youtube.com/vi/rQBHwdEEL9I/0.jpg)
+![project image](https://github.com/begalievn/COA-project/blob/main/screen1.png)
+![project image2](https://github.com/begalievn/COA-project/blob/main/screen2.png))
 
 ## Video Review of the project
 
