@@ -2,13 +2,11 @@
 
 ![alt text](https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png)
 
-# Mini_Market 
+# Mini_Market Management System
 
-## Author: Nursultan Begaliev COM19
 
-This is the Platform game with C#. I watched a video tutorial and practiced to make a game with C# Window Form. In this project I learned a lot about making games with C#, I enjoyed it. 
+This is the Mini_Marget Management system made with C# and Microsoft Server SQl. 
 
-* Screenshot of the game
 
 
 ![project image](http://img.youtube.com/vi/rQBHwdEEL9I/0.jpg)
